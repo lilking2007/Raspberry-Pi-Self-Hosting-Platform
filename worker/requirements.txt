@@ -1,8 +1,0 @@
-rq
-sqlalchemy
-psycopg2-binary
-redis
-docker
-jinja2
-python-multipart
-# Shared module deps implied or copied
