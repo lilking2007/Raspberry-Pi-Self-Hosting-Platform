@@ -210,4 +210,4 @@ docker-compose down
 - **Site says "404 Not Found"?**
   Check the zip structure. Ensure `index.html` is present. Check logs: `docker-compose logs worker`.
 - **Database connection error?**
-  Ensure the `db` container is healthy. It might take a few seconds to start up initially.
+  Ensure the `db` container is healthy. It might take a few seconds to start up initially...
