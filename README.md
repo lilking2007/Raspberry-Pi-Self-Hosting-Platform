@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a complete **Platform-as-a-Service (PaaS)** designed specifically for a **Raspberry Pi 5 home-lab**. It allows you to deploy, manage, and expose static websites to the global internet without complex router port forwarding or manual server configuration.
+This project is a complete **Platform-as-a-Service (PaaS)** designed specifically for a **Raspberry Pi home-lab**. It allows you to deploy, manage, and expose static websites to the global internet without complex router port forwarding or manual server configuration.
 
 Think of it as your own private "Netlify" or "Vercel" hosted on your Raspberry Pi. You can upload a website (as a `.zip` file) through a beautiful web dashboard, and the platform automatically handles:
 - **Unpacking and Validation**: Ensuring your site files are safe and correct.
